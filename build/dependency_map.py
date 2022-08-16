@@ -26,14 +26,14 @@ github_mapping = {
     "common_lib_ext_tinyxml2_5.0.1"  : ["Common/Lib/Ext/tinyxml2",          "master"],
     "cxxopts"                        : ["Common/Lib/Ext/cxxopts",           "master"],
     "volk"                           : ["Common/Lib/Ext/volk",              "master"],
+    "device_info"                    : ["Common/Src/DeviceInfo",            "rga-v2.6.1"],
+    "update_check_api"               : ["Common/Src/update_check_api",      "v2.0.1"],
  # Src.
     "adl_util"                       : ["Common/Src/ADLUtil",               "master"],
     "dynamic_library_module"         : ["Common/Src/DynamicLibraryModule",  "master"],
     "tsingleton"                     : ["Common/Src/TSingleton",            "master"],
     "common_src_miniz"               : ["Common/Src/Miniz",                 "master"],
-    "update_check_api"               : ["Common/Src/update_check_api",      "v2.0.0"],
-    "device_info"                    : ["Common/Src/DeviceInfo",            "rga-v2.6.1"],
-# QtCommon.
+ # QtCommon.
     "qt_common"                      : ["QtCommon",                         "rga-2.5"],
 }
 
